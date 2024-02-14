@@ -9,3 +9,11 @@ Information: Application started. Press Ctrl+C to shut down.
 Information: Hosting environment: Development
 Information: Content root path: C:\Users\coler\Documents\BYU Winter 2024\CS 465\handout
 Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Warning: No XML encryptor configured. Key {37168835-c163-422d-a442-384aaf88da69} may be persisted to storage in unencrypted form.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Application is shutting down...
