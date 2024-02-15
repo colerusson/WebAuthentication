@@ -238,3 +238,4 @@ C:/Users/coler/Documents/BYU Winter 2024/CS 465/handout/obj/Debug/net7.0/ref/App
 /workspaces/handout/obj/Debug/net7.0/App.pdb
 /workspaces/handout/obj/Debug/net7.0/App.genruntimeconfig.cache
 /workspaces/handout/obj/Debug/net7.0/ref/App.dll
+/workspaces/handout/bin/Debug/net7.0/app.db
