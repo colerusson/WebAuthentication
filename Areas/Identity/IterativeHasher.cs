@@ -27,22 +27,18 @@ internal class IterativeHasher : IPasswordHasher<IdentityUser>
         {
             rng.GetBytes(salt);
         }
-        byte[] digest = new byte[32];
-        using (var sha = SHA256.Create())
+
+        byte[] hashInput = new byte[salt.Length + Utils.Encoding.GetBytes(password).Length];
+        salt.CopyTo(hashInput, 0);
+        Utils.Encoding.GetBytes(password).CopyTo(hashInput, salt.Length);
+
+        byte[] hash = SHA256.HashData(hashInput);
+        for (int i = 0; i < 99999; i++)
         {
-            byte[] input = Utils.Encoding.GetBytes(password);
-            byte[] saltedInput = new byte[salt.Length + input.Length];
-            salt.CopyTo(saltedInput, 0);
-            input.CopyTo(saltedInput, salt.Length);
-            byte[] hash = sha.ComputeHash(saltedInput);
-            for (int i = 0; i < 99999; i++)
-            {
-                hash.CopyTo(saltedInput, 0);
-                hash = sha.ComputeHash(saltedInput);
-            }
-            hash.CopyTo(digest, 0);
+            hash = SHA256.HashData(hash);
         }
-        return Utils.EncodeSaltAndDigest(salt, digest);
+
+        return Utils.EncodeSaltAndDigest(salt, hash);
     }
 
     /// <summary>
@@ -54,26 +50,23 @@ internal class IterativeHasher : IPasswordHasher<IdentityUser>
     public PasswordVerificationResult VerifyHashedPassword(IdentityUser user, string hashedPassword, string providedPassword)
     {
         // todo: Verify that the given password matches the hashedPassword (as originally encoded by HashPassword)
-        (byte[] salt, byte[] digest) = Utils.DecodeSaltAndDigest(hashedPassword);
-        byte[] providedDigest = new byte[32];
-        using (var sha = SHA256.Create())
+        (byte[] salt, byte[] storedDigest) = Utils.DecodeSaltAndDigest(hashedPassword);
+
+        byte[] hashInput = new byte[salt.Length + Utils.Encoding.GetBytes(providedPassword).Length];
+        salt.CopyTo(hashInput, 0);
+        Utils.Encoding.GetBytes(providedPassword).CopyTo(hashInput, salt.Length);
+
+        byte[] providedDigest = SHA256.HashData(hashInput);
+        for (int i = 0; i < 99999; i++)
         {
-            byte[] input = Utils.Encoding.GetBytes(providedPassword);
-            byte[] saltedInput = new byte[salt.Length + input.Length];
-            salt.CopyTo(saltedInput, 0);
-            input.CopyTo(saltedInput, salt.Length);
-            byte[] hash = sha.ComputeHash(saltedInput);
-            for (int i = 0; i < 99999; i++)
-            {
-                hash.CopyTo(saltedInput, 0);
-                hash = sha.ComputeHash(saltedInput);
-            }
-            hash.CopyTo(providedDigest, 0);
+            providedDigest = SHA256.HashData(providedDigest);
         }
+
         if (Utils.EncodeSaltAndDigest(salt, providedDigest) == hashedPassword)
         {
             return PasswordVerificationResult.Success;
         }
+
         return PasswordVerificationResult.Failed;
     }
 

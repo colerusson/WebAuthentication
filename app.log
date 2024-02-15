@@ -598,3 +598,401 @@ FROM "AspNetUsers" AS "a"
 WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
 LIMIT 1
 Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (70ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (63ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (60ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (50ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (68ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 6)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (22ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 8), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (0ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (55ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (51ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (63ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (53ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (63ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (53ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (66ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (54ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (3ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (54ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (22ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 8), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (5ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (0ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 8)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (57ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (18ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 4), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (5ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (0ms) [Parameters=[@__normalizedUserName_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (62ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 7)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (19ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 7), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 7)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 7)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Application is shutting down...
+Warning: Storing keys in a directory '/home/vscode/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+Information: Now listening on: http://localhost:5126
+Information: Application started. Press Ctrl+C to shut down.
+Information: Hosting environment: Development
+Information: Content root path: /workspaces/handout
+Warning: Failed to determine the https port for redirect.
+Information: Executed DbCommand (63ms) [Parameters=[@__normalizedUserName_0='?' (Size = 11)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (30ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 11), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 11)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (0ms) [Parameters=[@__normalizedUserName_0='?' (Size = 11)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (8ms) [Parameters=[@p0='?' (Size = 36), @p1='?' (DbType = Int32), @p2='?' (Size = 36), @p3='?', @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?', @p8='?' (Size = 9), @p9='?' (Size = 89), @p10='?' (DbType = Int32), @p11='?', @p12='?' (DbType = Boolean), @p13='?' (Size = 32), @p14='?' (DbType = Boolean), @p15='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PasswordHasherAlgorithm", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+Information: User created a new account with password. Hashing algorithm: Iterative
+Information: Executed DbCommand (3ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."AccessFailedCount", "a"."ConcurrencyStamp", "a"."Email", "a"."EmailConfirmed", "a"."LockoutEnabled", "a"."LockoutEnd", "a"."NormalizedEmail", "a"."NormalizedUserName", "a"."PasswordHash", "a"."PasswordHasherAlgorithm", "a"."PhoneNumber", "a"."PhoneNumberConfirmed", "a"."SecurityStamp", "a"."TwoFactorEnabled", "a"."UserName"
+FROM "AspNetUsers" AS "a"
+WHERE "a"."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+Information: Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?' (Size = 36)], CommandType='Text', CommandTimeout='30']
+SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
+FROM "AspNetUserClaims" AS "a"
+WHERE "a"."UserId" = @__user_Id_0
+Information: User logged in.
+Information: Application is shutting down...

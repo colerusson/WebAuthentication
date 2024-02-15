@@ -39,5 +39,4 @@ internal static class Utils
         byte[] digest = Convert.FromBase64String(parts[1]);
         return (salt, digest);
     }
-
 }
